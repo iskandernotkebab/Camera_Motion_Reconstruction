@@ -1,4 +1,4 @@
-# Computer Vision Camera Motion Reconstruction
+# Camera Motion Reconstruction
 
 This repository contains my computer vision project on camera motion reconstruction. The goal of the project was to reconstruct a realistic camera motion path using rotation and translation estimates from an image sequence.
 
